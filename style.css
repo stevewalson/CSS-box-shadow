@@ -64,6 +64,7 @@ body {
 }
 
 .panel input {
+  cursor: pointer;
   accent-color: #6100ac;
   position: relative;
 }
